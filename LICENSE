@@ -1,10 +1,35 @@
-Content in okf/, packaging/, and tests/ is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
-https://creativecommons.org/licenses/by/4.0/
-
-Code in scripts/ and .github/ is licensed under the MIT License.
+This repository uses two licenses. Documentation and standard content use Creative Commons Attribution 4.0 International (CC BY 4.0). Software code uses the MIT License where noted below.
 
 Copyright (c) 2026 GoldenDoodle AI
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of the software portions of this repository, to deal in the software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the following conditions: the above copyright notice and this permission notice shall be included in all copies or substantial portions of the software. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+---
 
-The SAMHSA trauma-informed framework referenced in okf/trauma-informed/ is a work of the United States government and is in the public domain.
+Documentation and standard content (CC BY 4.0)
+
+The following are licensed under CC BY 4.0:
+
+- Every file at the repository root, including SKILL.md, standard.md, README.md, AGENTS.md, SOURCES.md, PROVENANCE, and this LICENSE file (except the MIT software grant below).
+- Any future files added at the repository root or elsewhere that document or express the human-centered language standard, trauma-informed communications standard, related skills, sources, or provenance (for example markdown, text, or structured documentation).
+- When present in this repository, all content under okf/, packaging/, and tests/.
+
+You may share and adapt this material for any purpose, including commercially, if you give appropriate credit. The full license terms are at:
+
+https://creativecommons.org/licenses/by/4.0/
+
+To attribute: Copyright (c) 2026 GoldenDoodle AI, licensed under CC BY 4.0.
+
+---
+
+Software code (MIT)
+
+When present in this repository, source code under scripts/, .github/, and any similar directories devoted to automation, build tooling, or executable code is licensed under the MIT License, not under CC BY 4.0.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of the software portions of this repository, to deal in the software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the following conditions: the above copyright notice and this permission notice shall be included in all copies or substantial portions of the software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+Third-party public domain material
+
+The SAMHSA trauma-informed framework referenced in this repository (including in SOURCES.md and standard documentation, and in okf/trauma-informed/ when that path is present) is a work of the United States government and is in the public domain.
